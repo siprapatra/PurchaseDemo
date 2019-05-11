@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/sipra/Desktop/9thMay/PurchaseDemo/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn/values-mn.xml",
+            "outputFile": "/Users/sipra/Desktop/9thMay/PurchaseDemo-11thMay/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn/values-mn.xml",
             "map": [
                 {
                     "source": "/Users/sipra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/c20481561f05de6f6dda6faee07b9c2b/res/values-mn/values-mn.xml",
